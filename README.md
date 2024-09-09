@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Onyinye2023
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning .net 
+- 🌱 I’m currently seeking for an opportunity to work as a Junior backend Developer
 - 💞️ I’m looking to collaborate on c#
 - 📫 How to reach me ezeugenyionyinye@gmail.com
 
